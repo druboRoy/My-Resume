@@ -82,7 +82,7 @@ nav ul li {
     padding: 21px 24px 21px 24px;
 }
 
-.whyweb{
+.whyweb {
     /* text-align: center; */
     padding: 0px 290px;
 }
@@ -140,4 +140,31 @@ nav ul li {
 
 .btn {
     border-radius: 0px;
+}
+
+.inspire{
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 183px;
+}
+
+.inspire h3 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.inspire p {
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 80px;
 }
