@@ -39,7 +39,7 @@ nav ul li {
 
 .hero {
     /* text-align: center; */
-    background-image: url('/assets/Hero-bg.png');
+    background-image: url('./assets/Hero-bg.png');
     padding: 26px 220px 45px;
     display: flex;
     flex-direction: column;
